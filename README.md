@@ -1,4 +1,4 @@
-# EVT
+# Eclipsing Timing Variations N Body Simulation
 To Simulate ETV for N Body Systems
 # Eclipsing Timing Variation Simulator
 
